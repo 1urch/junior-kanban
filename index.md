@@ -68,6 +68,6 @@ _провоцирует обсуждение производственных в
 ![Agile Sprint Board](img/agile_sprint_board.png)
 
 
-_Специально для_ [`Elama Junior Lab` :runner:](https://juniorlab.ru/)
+`Специально для` [`Elama Junior Lab`](https://juniorlab.ru/) :runner:
 
 
