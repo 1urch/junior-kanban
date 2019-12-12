@@ -68,6 +68,7 @@ _провоцирует обсуждение производственных в
 ![Agile Sprint Board](img/agile_sprint_board.png)
 
 
-`Специально для` [`Elama Junior Lab`](https://juniorlab.ru/)
+- `Специально для` [`Elama Junior Lab`](https://juniorlab.ru/)
+- [`GitHub`](https://github.com/1urch/junior-kanban)
 
 
